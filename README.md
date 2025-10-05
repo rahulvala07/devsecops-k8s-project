@@ -9,7 +9,7 @@ Production-ready DevSecOps pipeline with Kubernetes, featuring multi-layered sec
 ## 🚀 Quick Start 
 ```bash
 # 1. Clone repository
-git clone https://github.com/rahulvala07/project.git
+git clone https://github.com/rahulvala07/devsecops-k8s-project.git
 cd devsecops-k8s-project
 
 # 2. Run bootstrap script
